@@ -1,11 +1,11 @@
 {
-    "name": "AgriBase",
-    "short_name": "AgriBase",
+    "name": "FarmYieldIQ-Partner",
+    "short_name": "FarmYieldIQ-Partner",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#108A44",
     "theme_color": "#108A44",
-    "description": "AgriBase Partner Application",
+    "description": "FarmYieldIQ-Partner Application",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
